@@ -3,7 +3,7 @@
 **Requirements:**
  - Allow end user to **search the flights** and **make a reservation**
 
-### Steps to run the App
+**Steps to run the App**
  - install python
  - install the packages in requirements.txt file (cmd : **pip install -r requirements.txt**)
  - create database : **flightdb** and add configuration details in DATABASES section in settings.py file
